@@ -480,6 +480,9 @@
             },
             ".text-block": {
               "margin": "auto"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "features11",
@@ -510,7 +513,8 @@
               "color": "#000000"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_name": "features11",
